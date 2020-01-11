@@ -1,0 +1,26 @@
+{
+  "brightness": "10",
+  "colour_scheme": "original",
+  "colours": [
+    "FF0000",
+    "FF8000",
+    "FFFF00",
+    "80FF00",
+    "00FF00",
+    "00FF80",
+    "00FFFF",
+    "0080FF",
+    "0000FF",
+    "8000FF",
+    "FF00FF",
+    "FF0080"
+  ],
+  "flicker_rate": 7,
+  "message": "happy halloween",
+  "random_flash": 10,
+  "random_mode": false,
+  "start_delay": 2,
+  "start_time": "2019-10-26T19:01:27.919000",
+  "time_off": 0.2,
+  "time_on": 1
+}

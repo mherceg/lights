@@ -1,0 +1,26 @@
+{
+  "brightness": "10",
+  "colour_scheme": "original",
+  "colours": [
+    "FF0000",
+    "FF8000",
+    "FFFF00",
+    "80FF00",
+    "00FF00",
+    "00FF80",
+    "00FFFF",
+    "0080FF",
+    "0000FF",
+    "8000FF",
+    "FF00FF",
+    "FF0080"
+  ],
+  "flicker_rate": 7,
+  "message": "Spaso mi te volimo",
+  "random_flash": 10,
+  "random_mode": false,
+  "start_delay": 4,
+  "start_time": "2019-10-27T12:07:04.719000",
+  "time_off": 0.3,
+  "time_on": 1
+}
